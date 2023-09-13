@@ -1,0 +1,2376 @@
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-23-2023 18:17:32'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-23-2023 18:17:54'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-23-2023 18:25:41'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-23-2023 18:25:42'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-23-2023 18:30:21'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-23-2023 18:31:32'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-23-2023 18:41:00'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-23-2023 18:44:49'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-24-2023 10:51:58'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-24-2023 11:36:13'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-24-2023 11:36:18'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-24-2023 11:36:37'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-24-2023 11:39:20'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-24-2023 11:42:34'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-24-2023 11:47:45'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-24-2023 11:48:26'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-24-2023 11:48:46'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-24-2023 11:48:55'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-24-2023 11:49:08'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-24-2023 11:49:59'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-24-2023 11:50:56'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-24-2023 11:53:24'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-24-2023 11:53:27'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-24-2023 11:53:42'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-24-2023 11:55:31'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-24-2023 11:55:43'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-24-2023 11:56:30'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-24-2023 11:56:47'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-24-2023 11:59:38'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-24-2023 12:03:17'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-24-2023 12:06:18'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-24-2023 12:09:27'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-24-2023 12:09:42'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-24-2023 12:10:47'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-24-2023 12:12:27'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-24-2023 12:13:59'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-24-2023 12:14:00'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-24-2023 12:14:02'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-24-2023 12:14:06'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-24-2023 12:14:10'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-24-2023 12:14:11'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-24-2023 12:14:13'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-24-2023 12:15:23'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-24-2023 12:15:25'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-24-2023 12:15:28'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-24-2023 12:15:29'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-24-2023 12:15:29'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-24-2023 12:19:12'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-24-2023 12:19:14'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-24-2023 12:19:15'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-24-2023 12:19:25'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-24-2023 12:19:46'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-24-2023 12:20:11'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-24-2023 12:20:12'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-24-2023 12:20:12'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-24-2023 12:20:15'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-24-2023 12:20:15'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-24-2023 12:20:22'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-24-2023 12:20:28'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-24-2023 12:20:48'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-24-2023 12:20:48'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-24-2023 12:20:51'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-24-2023 12:21:10'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-24-2023 12:21:11'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-24-2023 12:21:11'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-24-2023 12:21:18'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-24-2023 12:21:21'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-24-2023 12:21:21'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-24-2023 12:22:18'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-24-2023 12:25:52'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-24-2023 12:25:54'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-24-2023 12:26:02'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-24-2023 12:26:05'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-24-2023 12:26:10'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-24-2023 12:26:12'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-24-2023 12:26:20'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-24-2023 12:26:25'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-24-2023 12:26:28'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-24-2023 12:26:30'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-24-2023 12:42:10'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-24-2023 12:42:26'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-24-2023 12:43:45'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-24-2023 12:44:15'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-24-2023 12:47:37'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-24-2023 12:47:39'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-24-2023 12:56:17'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-24-2023 12:56:22'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-24-2023 12:59:04'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-24-2023 13:13:14'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-24-2023 13:15:01'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-24-2023 13:15:25'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-24-2023 13:17:09'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-24-2023 13:19:32'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-24-2023 13:20:08'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-24-2023 13:20:44'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-24-2023 13:23:08'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-24-2023 13:23:10'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-24-2023 13:25:49'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-24-2023 13:28:52'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-24-2023 13:29:38'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-24-2023 13:32:20'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-24-2023 13:32:53'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-24-2023 14:20:18'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-24-2023 14:28:19'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-24-2023 14:31:20'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-24-2023 14:31:26'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-24-2023 14:31:29'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-24-2023 14:31:34'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-24-2023 14:39:01'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-24-2023 15:36:20'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-24-2023 15:36:20'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-24-2023 15:36:35'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-24-2023 15:36:35'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-24-2023 15:38:20'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-24-2023 15:38:21'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-24-2023 15:45:57'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-24-2023 15:46:00'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-24-2023 15:46:04'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-24-2023 15:46:06'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-24-2023 15:46:08'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-24-2023 15:46:11'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-24-2023 15:46:12'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-24-2023 15:46:13'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-24-2023 15:46:16'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-24-2023 15:46:19'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-24-2023 15:46:27'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-24-2023 15:46:30'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-24-2023 15:46:35'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-24-2023 15:47:43'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-24-2023 15:49:05'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-24-2023 15:59:27'
+}
+{
+  message: 'undefined - jwt expired - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-25-2023 15:30:22'
+}
+{
+  message: 'undefined - jwt expired - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-25-2023 15:37:51'
+}
+{
+  message: 'undefined - jwt expired - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-25-2023 15:37:57'
+}
+{
+  message: 'undefined - userId is not defined - /api/user/detail - POST',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-25-2023 16:21:31'
+}
+{
+  message: 'undefined - userId is not defined - /api/user/detail - POST',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-25-2023 16:21:38'
+}
+{
+  message: 'undefined - userId is not defined - /api/user/detail - POST',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-25-2023 16:23:37'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-25-2023 16:34:02'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-25-2023 16:34:09'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/kycforuser?proofOfIdentity=true - POST inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-25-2023 16:40:51'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/kycforuser?proofOfIdentity=true - POST inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-25-2023 16:43:10'
+}
+{
+  message: "undefined - Cannot read properties of undefined (reading 'filename') - /api/user/addbankdetails - POST",
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-25-2023 17:00:13'
+}
+{
+  message: 'undefined - jwt expired - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-25-2023 17:45:05'
+}
+{
+  message: 'undefined - jwt expired - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-28-2023 11:28:36'
+}
+{
+  message: 'undefined - jwt expired - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-28-2023 11:28:42'
+}
+{
+  message: 'undefined - jwt expired - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-28-2023 11:29:17'
+}
+{
+  message: 'undefined - jwt expired - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-28-2023 11:29:22'
+}
+{
+  message: 'undefined - jwt expired - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-28-2023 11:29:26'
+}
+{
+  message: 'undefined - jwt expired - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-28-2023 11:41:30'
+}
+{
+  message: 'undefined - jwt expired - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-28-2023 11:41:34'
+}
+{
+  message: 'undefined - jwt expired - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-28-2023 11:41:40'
+}
+{
+  message: 'undefined - jwt expired - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-28-2023 11:41:42'
+}
+{
+  message: 'undefined - jwt expired - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-28-2023 11:41:58'
+}
+{
+  message: 'undefined - jwt expired - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-28-2023 11:42:03'
+}
+{
+  message: 'undefined - jwt expired - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-28-2023 11:42:06'
+}
+{
+  message: 'undefined - jwt expired - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-28-2023 11:42:17'
+}
+{
+  message: 'undefined - jwt expired - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-28-2023 11:42:20'
+}
+{
+  message: 'undefined - jwt expired - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-28-2023 11:42:22'
+}
+{
+  message: 'undefined - jwt expired - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-28-2023 11:42:24'
+}
+{
+  message: 'undefined - jwt expired - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-28-2023 11:42:25'
+}
+{
+  message: 'undefined - jwt expired - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-28-2023 11:42:26'
+}
+{
+  message: 'undefined - jwt expired - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-28-2023 11:43:03'
+}
+{
+  message: 'undefined - jwt expired - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-28-2023 11:43:04'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-28-2023 11:44:07'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-28-2023 11:44:24'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-28-2023 11:44:36'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-28-2023 11:44:42'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-28-2023 11:44:51'
+}
+{
+  message: 'undefined - "audience" must be a string or array - inside signAccessToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-28-2023 12:41:14'
+}
+{
+  message: 'undefined - "audience" must be a string or array - inside signAccessToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-28-2023 12:45:05'
+}
+{
+  message: 'undefined - "audience" must be a string or array - inside signAccessToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-28-2023 14:39:07'
+}
+{
+  message: '500 - Something went wrong. Please try again! - /api/user/kycforcompany?virtualProof=true - POST',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-28-2023 16:06:51'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/typeupdate - POST inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-28-2023 16:58:24'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/typeupdate - POST inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-28-2023 16:58:24'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/typeupdate - POST inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-28-2023 16:58:26'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/typeupdate - POST inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-28-2023 17:31:57'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/typeupdate - POST inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-28-2023 17:31:57'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/typeupdate - POST inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-28-2023 17:31:57'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/typeupdate - POST inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-28-2023 17:31:58'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/typeupdate - POST inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-28-2023 17:31:58'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/typeupdate - POST inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-28-2023 17:33:11'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/typeupdate - POST inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-28-2023 17:36:23'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/typeupdate - POST inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-28-2023 17:36:24'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/typeupdate - POST inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-28-2023 17:36:25'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/typeupdate - POST inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-28-2023 17:37:52'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/typeupdate - POST inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-28-2023 17:38:06'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/typeupdate - POST inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-28-2023 17:59:10'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/typeupdate - POST inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-28-2023 17:59:12'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/typeupdate - POST inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-28-2023 17:59:12'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/typeupdate - POST inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-28-2023 17:59:13'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/typeupdate - POST inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-28-2023 17:59:13'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/typeupdate - POST inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-28-2023 17:59:13'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/typeupdate - POST inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-28-2023 17:59:13'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/typeupdate - POST inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-28-2023 17:59:14'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/typeupdate - POST inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-28-2023 18:00:55'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/typeupdate - POST inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-28-2023 18:01:01'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/typeupdate - POST inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-28-2023 18:01:03'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/typeupdate - POST inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-28-2023 18:01:03'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/typeupdate - POST inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-28-2023 18:03:13'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/typeupdate - POST inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-28-2023 18:04:16'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/typeupdate - POST inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-28-2023 18:05:45'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/typeupdate - POST inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-28-2023 18:06:42'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/typeupdate - POST inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-28-2023 18:08:59'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/typeupdate - POST inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-28-2023 18:10:25'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/typeupdate - POST inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-28-2023 18:11:14'
+}
+{
+  message: 'undefined - jwt expired - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-30-2023 12:12:34'
+}
+{
+  message: 'undefined - jwt expired - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-30-2023 12:12:34'
+}
+{
+  message: 'undefined - jwt expired - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-30-2023 12:12:43'
+}
+{
+  message: 'undefined - jwt expired - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-30-2023 12:12:43'
+}
+{
+  message: 'undefined - jwt expired - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-30-2023 12:13:04'
+}
+{
+  message: 'undefined - jwt expired - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-30-2023 12:13:06'
+}
+{
+  message: 'undefined - jwt expired - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-30-2023 12:13:11'
+}
+{
+  message: 'undefined - jwt expired - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-30-2023 12:13:11'
+}
+{
+  message: 'undefined - jwt expired - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-30-2023 12:13:15'
+}
+{
+  message: 'undefined - jwt expired - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-30-2023 12:13:24'
+}
+{
+  message: 'undefined - jwt expired - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-30-2023 12:13:31'
+}
+{
+  message: 'undefined - jwt expired - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-30-2023 12:13:31'
+}
+{
+  message: 'undefined - jwt expired - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-30-2023 12:13:39'
+}
+{
+  message: 'undefined - jwt expired - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-30-2023 12:13:47'
+}
+{
+  message: 'undefined - jwt expired - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-30-2023 12:13:47'
+}
+{
+  message: 'undefined - jwt expired - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-30-2023 12:14:05'
+}
+{
+  message: 'undefined - jwt expired - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-30-2023 12:14:11'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-30-2023 12:15:53'
+}
+{
+  message: 'undefined - jwt expired - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-30-2023 13:15:53'
+}
+{
+  message: 'undefined - jwt expired - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-30-2023 13:15:53'
+}
+{
+  message: 'undefined - jwt expired - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-30-2023 13:15:55'
+}
+{
+  message: 'undefined - jwt expired - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Aug-30-2023 13:15:55'
+}
+{
+  message: 'undefined - jwt expired - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-11-2023 14:50:00'
+}
+{
+  message: 'undefined - jwt expired - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-11-2023 14:50:00'
+}
+{
+  message: 'undefined - jwt expired - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-11-2023 14:51:49'
+}
+{
+  message: 'undefined - jwt expired - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-11-2023 14:51:49'
+}
+{
+  message: 'undefined - jwt expired - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-11-2023 14:55:17'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-11-2023 14:56:51'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-11-2023 14:58:03'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-11-2023 14:58:03'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-11-2023 14:59:06'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-11-2023 14:59:38'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-11-2023 14:59:42'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/typeupdate - POST inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-11-2023 14:59:50'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-11-2023 15:00:21'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-11-2023 15:00:21'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-11-2023 15:00:41'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-11-2023 15:00:41'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-11-2023 15:01:11'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-11-2023 15:01:11'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-11-2023 15:01:31'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/typeupdate - POST inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-11-2023 15:01:33'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/typeupdate - POST inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-11-2023 15:01:33'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/typeupdate - POST inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-11-2023 15:01:34'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-11-2023 15:06:18'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-11-2023 15:06:21'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-11-2023 15:06:21'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/typeupdate - POST inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-11-2023 15:06:24'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/typeupdate - POST inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-11-2023 15:06:27'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-11-2023 15:06:31'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-11-2023 15:06:31'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-11-2023 15:06:38'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-11-2023 15:06:38'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-11-2023 15:06:54'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-11-2023 15:06:57'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-11-2023 15:06:57'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-11-2023 15:07:52'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-11-2023 15:08:49'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-11-2023 15:08:50'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-11-2023 15:09:21'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-11-2023 15:09:22'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-11-2023 15:09:23'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-11-2023 15:09:27'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-11-2023 15:10:51'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-11-2023 15:10:51'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-11-2023 15:11:07'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-11-2023 15:11:07'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/typeupdate - POST inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-11-2023 15:11:11'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-11-2023 15:11:19'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-11-2023 15:11:19'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-11-2023 15:11:35'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-11-2023 15:11:35'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-11-2023 15:11:39'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-11-2023 15:11:40'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/typeupdate - POST inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-11-2023 15:13:04'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/typeupdate - POST inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-11-2023 15:13:06'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-11-2023 15:13:11'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-11-2023 15:13:12'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-11-2023 15:13:32'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-11-2023 15:13:32'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-11-2023 15:13:59'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-11-2023 15:13:59'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-11-2023 15:14:16'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/typeupdate - POST inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-11-2023 15:40:48'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/typeupdate - POST inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-11-2023 15:40:48'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/typeupdate - POST inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-11-2023 15:40:49'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-11-2023 15:41:47'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-11-2023 15:45:41'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-11-2023 15:47:38'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-11-2023 15:48:24'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-11-2023 15:50:01'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-11-2023 15:50:36'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-11-2023 15:55:31'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/typeupdate - POST inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-11-2023 15:55:35'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/typeupdate - POST inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-11-2023 15:55:36'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/typeupdate - POST inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-11-2023 15:55:36'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/typeupdate - POST inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-11-2023 15:55:36'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-11-2023 16:54:09'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/detail - POST inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-11-2023 16:55:33'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/detail - POST inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-11-2023 16:55:43'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/detail - POST inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-11-2023 16:55:43'
+}
+{
+  message: null,
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-11-2023 17:15:33'
+}
+{
+  message: null,
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-11-2023 17:15:34'
+}
+{
+  message: null,
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-11-2023 17:15:34'
+}
+{
+  message: null,
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-11-2023 17:15:34'
+}
+{
+  message: null,
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-11-2023 17:15:35'
+}
+{
+  message: null,
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-11-2023 17:15:35'
+}
+{
+  message: null,
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-11-2023 17:15:35'
+}
+{
+  message: null,
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-11-2023 17:15:35'
+}
+{
+  message: null,
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-11-2023 17:15:35'
+}
+{
+  message: null,
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-11-2023 17:15:35'
+}
+{
+  message: null,
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-11-2023 17:15:36'
+}
+{
+  message: null,
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-11-2023 17:15:36'
+}
+{
+  message: null,
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-11-2023 17:15:36'
+}
+{
+  message: null,
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-11-2023 17:15:36'
+}
+{
+  message: null,
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-11-2023 17:15:36'
+}
+{
+  message: null,
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-11-2023 17:15:37'
+}
+{
+  message: null,
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-11-2023 17:15:37'
+}
+{
+  message: null,
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-11-2023 17:15:37'
+}
+{
+  message: null,
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-11-2023 17:15:37'
+}
+{
+  message: null,
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-11-2023 17:15:37'
+}
+{
+  message: null,
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-11-2023 17:15:37'
+}
+{
+  message: null,
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-11-2023 17:15:38'
+}
+{
+  message: null,
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-11-2023 17:15:38'
+}
+{
+  message: null,
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-11-2023 17:15:38'
+}
+{
+  message: null,
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-11-2023 17:15:38'
+}
+{
+  message: null,
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-11-2023 17:15:38'
+}
+{
+  message: null,
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-11-2023 17:15:38'
+}
+{
+  message: null,
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-11-2023 17:15:39'
+}
+{
+  message: null,
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-11-2023 17:15:39'
+}
+{
+  message: null,
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-11-2023 17:15:39'
+}
+{
+  message: null,
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-11-2023 17:15:39'
+}
+{
+  message: null,
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-11-2023 17:15:39'
+}
+{
+  message: null,
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-11-2023 17:15:40'
+}
+{
+  message: null,
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-11-2023 17:15:40'
+}
+{
+  message: null,
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-11-2023 17:15:40'
+}
+{
+  message: null,
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-11-2023 17:15:40'
+}
+{
+  message: null,
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-11-2023 17:15:40'
+}
+{
+  message: null,
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-11-2023 17:15:40'
+}
+{
+  message: null,
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-11-2023 17:15:41'
+}
+{
+  message: null,
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-11-2023 17:15:41'
+}
+{
+  message: null,
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-11-2023 17:15:41'
+}
+{
+  message: '500 - Something went wrong. Please try again! - /api/user/kycforuser?virtualProof=true - POST',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-11-2023 17:29:50'
+}
+{
+  message: "undefined - Cannot read properties of undefined (reading 'filename') - /api/user/addbankdetails - POST",
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-11-2023 17:39:25'
+}
+{
+  message: "undefined - Cannot read properties of undefined (reading 'filename') - /api/user/addbankdetails - POST",
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-11-2023 17:44:05'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-11-2023 17:59:45'
+}
+{
+  message: 'undefined - jwt malformed - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-11-2023 17:59:45'
+}
+{
+  message: 'undefined - jwt expired - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-12-2023 10:54:10'
+}
+{
+  message: 'undefined - jwt expired - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-12-2023 10:54:10'
+}
+{
+  message: 'undefined - jwt expired - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-12-2023 10:54:11'
+}
+{
+  message: 'undefined - jwt expired - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-12-2023 10:54:11'
+}
+{
+  message: 'undefined - jwt expired - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-12-2023 10:54:23'
+}
+{
+  message: 'undefined - jwt expired - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-12-2023 10:54:23'
+}
+{
+  message: 'undefined - jwt expired - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-12-2023 11:08:54'
+}
+{
+  message: 'undefined - jwt expired - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-12-2023 11:08:54'
+}
+{
+  message: 'undefined - jwt expired - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-12-2023 11:20:18'
+}
+{
+  message: 'undefined - jwt expired - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-12-2023 11:20:18'
+}
+{
+  message: 'undefined - jwt expired - /api/user/addbankdetails - POST inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-12-2023 11:25:04'
+}
+{
+  message: 'undefined - jwt expired - /api/user/addbankdetails - POST inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-12-2023 11:25:24'
+}
+{
+  message: "undefined - Cannot read properties of undefined (reading 'filename') - /api/user/addbankdetails - POST",
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-12-2023 11:27:22'
+}
+{
+  message: "undefined - Cannot read properties of undefined (reading 'filename') - /api/user/addbankdetails - POST",
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-12-2023 11:46:41'
+}
+{
+  message: "undefined - Cannot read properties of undefined (reading 'filename') - /api/user/addbankdetails - POST",
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-12-2023 11:47:06'
+}
+{
+  message: "undefined - Cannot read properties of undefined (reading 'filename') - /api/user/addbankdetails - POST",
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-12-2023 11:47:19'
+}
+{
+  message: 'undefined - jwt expired - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-12-2023 12:24:51'
+}
+{
+  message: 'undefined - jwt expired - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-12-2023 12:24:51'
+}
+{
+  message: 'undefined - jwt expired - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-12-2023 12:24:51'
+}
+{
+  message: 'undefined - jwt expired - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-12-2023 12:24:51'
+}
+{
+  message: 'undefined - jwt expired - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-12-2023 12:25:55'
+}
+{
+  message: 'undefined - jwt expired - /api/user/currentUser - GET inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-12-2023 12:25:55'
+}
+{
+  message: 'undefined - jwt expired - /api/user/addbankdetails - POST inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-12-2023 12:26:05'
+}
+{
+  message: '500 - Something went wrong. Please try again! - /api/user/kycforuser?virtualProof=true - POST',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-12-2023 13:11:59'
+}
+{
+  message: 'undefined - jwt expired - /api/user/randomkey - POST inside verifyToken of jwt helper',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-12-2023 17:17:10'
+}
+{
+  message: "undefined - Cannot read properties of undefined (reading 'filename') - /api/user/addbankdetails - POST",
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-13-2023 11:56:33'
+}
+{
+  message: 'undefined - Cannot convert object to primitive value - /api/user/addbankdetails - POST',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-13-2023 12:17:49'
+}
+{
+  message: 'undefined - Cannot convert object to primitive value - /api/user/addbankdetails - POST',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-13-2023 12:18:06'
+}
+{
+  message: 'undefined - Cannot convert object to primitive value - /api/user/addbankdetails - POST',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-13-2023 12:18:14'
+}
+{
+  message: "undefined - Cannot read properties of undefined (reading 'filename') - /api/user/addbankdetails - POST",
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-13-2023 12:20:13'
+}
+{
+  message: 'undefined - Cannot convert object to primitive value - /api/user/addbankdetails - POST',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-13-2023 12:25:09'
+}
+{
+  message: 'undefined - Cannot convert object to primitive value - /api/user/addbankdetails - POST',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-13-2023 12:26:30'
+}
+{
+  message: 'undefined - Cannot convert object to primitive value - /api/user/addbankdetails - POST',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-13-2023 12:26:54'
+}
+{
+  message: "undefined - Cannot read properties of undefined (reading 'filename') - /api/user/addbankdetails - POST",
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-13-2023 12:29:42'
+}
+{
+  message: "undefined - Cannot read properties of undefined (reading 'filename') - /api/user/addbankdetails - POST",
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-13-2023 12:29:56'
+}
+{
+  message: "undefined - Cannot read properties of undefined (reading 'filename') - /api/user/addbankdetails - POST",
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-13-2023 12:30:26'
+}
+{
+  message: 'undefined - Cannot convert object to primitive value - /api/user/addbankdetails - POST',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-13-2023 12:31:59'
+}
+{
+  message: 'undefined - Cannot convert object to primitive value - /api/user/addbankdetails - POST',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-13-2023 12:34:00'
+}
+{
+  message: 'undefined - Cannot convert object to primitive value - /api/user/addbankdetails - POST',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-13-2023 12:35:49'
+}
+{
+  message: 'undefined - Cannot convert object to primitive value - /api/user/addbankdetails - POST',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-13-2023 12:39:30'
+}
+{
+  message: "undefined - Cannot read properties of undefined (reading 'filename') - /api/user/addbankdetails - POST",
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-13-2023 12:57:25'
+}
+{
+  message: "undefined - Cannot read properties of undefined (reading 'filename') - /api/user/addbankdetails - POST",
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-13-2023 12:58:23'
+}
+{
+  message: 'undefined - Cannot convert object to primitive value - /api/user/addbankdetails - POST',
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-13-2023 12:59:01'
+}
+{
+  message: "undefined - Cannot read properties of undefined (reading 'filename') - /api/user/addbankdetails - POST",
+  level: 'error',
+  service: 'user-services',
+  timestamp: 'Sep-13-2023 12:59:29'
+}
